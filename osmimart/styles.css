@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #message-box {
+    width: 200px;
+    height: 100px;
+    background-color: #ffc0cb;
+    border: 1px solid #e0e0e0;
+    line-height: 100px;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+  
+  #flower-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff69b4;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .flower {
+    width: 50px;
+    margin-top: 20px;
+  }
+  
